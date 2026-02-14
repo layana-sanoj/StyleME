@@ -46,4 +46,5 @@ Built for students and fashion lovers who want opinions on their outfits while s
 
 ## 📂 Project Structure
 
-![Home page](styleme_ss.png)
+
+<img width="1893" height="887" alt="styleme_ss" src="https://github.com/user-attachments/assets/73249973-d196-4154-85ac-6375d0905085" />
